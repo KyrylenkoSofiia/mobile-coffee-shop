@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "jsEngine": "hermes",
+    "scheme": "coffee",
+    "name": "coffee",
+    "slug": "coffee",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.anonymous.coffee",
+      "jsEngine": "jsc"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.anonymous.coffee"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "475dc064-887e-4bde-81da-1d6c46a784ef"
+      }
+    },
+    "owner": "sofiakyrylenko",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/475dc064-887e-4bde-81da-1d6c46a784ef"
+    }
+  }
+}
